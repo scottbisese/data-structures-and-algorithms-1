@@ -2,4 +2,4 @@
 Code Challenges
 
 
-I will fill this with information as it becomes more apparent.
+First code challenge is the for each. 7 challenges ending with the famous fizzy bubbly.
